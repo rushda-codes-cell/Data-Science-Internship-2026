@@ -1,0 +1,56 @@
+# Week 4 – Deployment & Production Polish
+
+## Overview
+
+The fourth week of the internship focused on deploying the machine learning application and preparing it for production use. During this week, I containerized the application using Docker, configured Kubernetes deployment, automated the deployment process with GitHub Actions, deployed the application to the cloud, implemented monitoring tools, performed load testing, and finalized the project documentation.
+
+The primary objective was to build a production-ready machine learning application by ensuring scalability, automation, monitoring, and deployment best practices.
+
+## Topics Covered
+
+### Day 22
+- Docker Multi-stage Build
+- Docker Image Optimization
+- Containerization
+- Application Packaging
+
+### Day 23
+- Kubernetes Deployment
+- Deployment Manifests
+- Service Configuration
+- Application Orchestration
+
+### Day 24
+- GitHub Actions CI/CD
+- Automated Build Pipeline
+- Automated Testing
+- Continuous Deployment
+
+### Day 25
+- Cloud Deployment
+- AWS / GCP Deployment
+- Application Hosting
+- Production Environment
+
+### Day 26
+- Prometheus Monitoring
+- Grafana Dashboard
+- System Metrics
+- Performance Monitoring
+
+### Day 27
+- Load Testing
+- Performance Evaluation
+- Model Validation
+- System Optimization
+
+### Day 28
+- Final Quality Assurance
+- README Documentation
+- Demo Video
+- PDF Report Export
+- Project Finalization
+
+## Learning Outcome
+
+By the end of Week 4, I gained practical experience in containerization, Kubernetes deployment, CI/CD automation, cloud deployment, application monitoring, performance testing, and production deployment. These skills enabled me to transform the machine learning project into a scalable, production-ready solution with automated workflows and comprehensive documentation.
