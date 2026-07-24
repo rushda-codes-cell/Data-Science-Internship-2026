@@ -40,11 +40,6 @@ Data-Science-Internship-2026/
 ├── Week-02 - Advanced Modeling & Churn Prediction
 ├── Week-03 - Dashboard & Analytics
 ├── Week-04 - Deployment & Production
-│
-├── datasets/
-├── screenshots/
-└── README.md
-```
 
 ## 🛠️ Technologies Used
 
